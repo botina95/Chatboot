@@ -1,0 +1,1 @@
+Software para chatboot donde se le enseña al robot como responder lo mas humanizado posible
